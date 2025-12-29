@@ -58,15 +58,12 @@ The primary goal is to:
 
 # 🛠 Technology Stack
 
-### 🐍 Python | 🗄 SQL | 📊 Power BI
+### 🐍 Python | 📊 Power BI
 
 # 📚 Python Libraries
 - **Pandas** - Data manipulation
 - **NumPy** - Statistical analysis
 - **Matplotlib & Seaborn** - Data visualization
-
-# 🗄 SQL
-- For database storage and data analysis.
 
 # 📊 Power BI
 - For visualization and dashboard creation.
